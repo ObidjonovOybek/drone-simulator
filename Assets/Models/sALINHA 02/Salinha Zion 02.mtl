@@ -1,0 +1,119 @@
+newmtl anisotropic3SG
+illum 4
+Kd 1.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 0.51 0.51 0.51
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl anisotropic4SG
+illum 4
+Kd 0.69 0.96 1.00
+Ka 0.00 0.00 0.00
+Tf 0.27 0.27 0.27
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl anisotropic5SG
+illum 4
+Kd 0.69 0.96 1.00
+Ka 0.00 0.00 0.00
+Tf 0.25 0.25 0.25
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl anisotropic6SG
+illum 4
+Kd 0.69 0.96 1.00
+Ka 0.00 0.00 0.00
+Tf 0.29 0.29 0.29
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl anisotropic7SG
+illum 4
+Kd 0.69 0.96 1.00
+Ka 0.00 0.00 0.00
+Tf 0.31 0.31 0.31
+Ni 1.00
+Ks 0.50 0.50 0.50
+newmtl initialShadingGroup
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert3SG
+illum 4
+Kd 0.17 0.36 0.44
+Ka 0.00 0.00 0.00
+Tf 0.18 0.18 0.18
+Ni 1.00
+newmtl lambert4SG
+illum 4
+Kd 1.00 1.00 1.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert8SG
+illum 4
+Kd 1.00 1.00 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert9SG
+illum 4
+Kd 1.00 1.00 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert10SG
+illum 4
+Kd 1.00 1.00 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert11SG
+illum 4
+Kd 1.00 1.00 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert12SG
+illum 4
+Kd 1.00 1.00 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert13SG
+illum 4
+Kd 1.00 1.00 0.08
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert15SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert17SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert18SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl lambert19SG
+illum 4
+Kd 0.00 0.86 1.00
+Ka 0.00 0.86 1.00
+Tf 1.00 1.00 1.00
+Ni 3.00
